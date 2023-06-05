@@ -1,14 +1,12 @@
-# Hi there. I'm Niracha! 👋
+# Hi there. I'm Niracha!
 
-I'm very excited to be part of this Web Development Bootcamp!
+**I'm very excited to be part of this *Web Development Bootcamp 🚀!*** I am a bit nervous but I am very much looking forward to the challeges and getting to know the team!
 
----
-
-### Bit of facts about me:
-* I love outdoor activities, traveling and flying
-* I spend a lot of times playing puzzle games on my phone
-* I'm afraid of caterpillars
-* My favorite city I've visited is **ROME**
+### Bit of facts about me ✨:
+* ✈️ I love outdoor activities, traveling and flying
+* 📱 I spend a lot of times playing puzzle games on my phone
+* 😨 I'm afraid of caterpillars
+* 🌆 My favorite city in Europe is [Rome](https://www.britannica.com/place/Rome)
 
 ![Rome](https://i.imgur.com/h9y79UW.jpeg)
 <!--
