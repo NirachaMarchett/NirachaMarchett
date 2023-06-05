@@ -2,7 +2,7 @@
 
 I'm very excited to be part of this Web Development Bootcamp!
 
-Bit of facts about me:
+### Bit of facts about me:
 * I love outdoor activities, traveling and flying
 * I spen a lot of times playing puzzle games on my phone
 * I'm afraid of caterpillars
