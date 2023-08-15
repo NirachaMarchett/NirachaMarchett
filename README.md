@@ -8,7 +8,7 @@ A bit about me✨:
 * 🧭 I enjoy outdoor activities, painting, puzzle games, traveling and flying/air planes. 
 * 🎯 The top 5 things on my bucket list are:
 
-  - [ ] Develop my own app/website :
+  - [x] Develop my own app/website :
   - [ ] Northern light hunting
   - [ ] Skydiving
   - [ ] Handshake with kangaroos
