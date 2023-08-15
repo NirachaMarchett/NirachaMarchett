@@ -5,10 +5,10 @@ I have background in digital marketing, (Agile) project management, UX/UI and a 
 A bit about me✨:
 
 * 🌱 I am currently learning how to code with the help of [neuefische](https://www.neuefische.de/bootcamp/web-development)
-* 🧭 I enjoy outdoor activities, painting, puzzle games, traveling and flying/air planes. 
+* 🧭 I enjoy outdoor activities, painting, puzzle games, traveling and flying/planes. 
 * 🎯 The top 5 things on my bucket list are:
 
-  - [x] Develop my own app/website :
+  - [x] Develop my own app/website : Capstone project- Expiry Track (ongoing)
   - [ ] Northern light hunting
   - [ ] Skydiving
   - [ ] Handshake with kangaroos
