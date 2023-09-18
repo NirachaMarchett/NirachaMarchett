@@ -1,14 +1,14 @@
 # Hi there. I'm Niracha!
 
-I have background in digital marketing, (Agile) project management, UX/UI and a tiny bit of web development. **I'm very excited to be participating in *Web Development Bootcamp 🚀!*** I am a bit nervous but I am very much looking forward to the challeges and getting to know the team!👯
+I have background in digital marketing, (Agile) project management, UX/UI and a tiny bit of web development. My journey in web development is driven by a desire to transform creative ideas into interactive digital experiences, to find fulfillment in creating websites and applications that bring positive benefits to individuals or businesses.
 
 A bit about me✨:
 
-* 🌱 I am currently learning how to code with the help of [neuefische](https://www.neuefische.de/bootcamp/web-development)
+* 🌱 My interest in coding has led me to participating in ***Web Development Bootcamp*** with neuefische
 * 🧭 I enjoy outdoor activities, painting, puzzle games, traveling and flying/planes. 
 * 🎯 The top 5 things on my bucket list are:
 
-  - [x] Develop my own app/website : Capstone project- Expiry Track (ongoing)
+  - [x] Develop my own app/website : [Capstone project- Expiry Track (ongoing)](https://github.com/NirachaMarchett/capstone-expiration-tracking-app) 🚀
   - [ ] Northern light hunting
   - [ ] Skydiving
   - [ ] Handshake with kangaroos
