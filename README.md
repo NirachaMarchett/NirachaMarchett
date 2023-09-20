@@ -14,7 +14,6 @@ A bit about me✨:
   - [ ] Handshake with kangaroos
   - [ ] Fly plane with flight simulator
 
-💬 Recommend me your favorite/best restaurants you've ever been to!🙋
 
 
   
