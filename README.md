@@ -8,7 +8,7 @@ A bit about me✨:
 * 🧭 I enjoy outdoor activities, painting, puzzle games, traveling and flying/planes. 
 * 🎯 The top 5 things on my bucket list are:
 
-  - [x] Develop my own app/website : [Capstone project- Expiry Track (ongoing)](https://github.com/NirachaMarchett/capstone-expiration-tracking-app) 🚀
+  - [x] Develop my own app/website : [Capstone project- Expiry Track](https://github.com/NirachaMarchett/capstone-expiration-tracking-app) 🚀
   - [ ] Northern light hunting
   - [ ] Skydiving
   - [ ] Handshake with kangaroos
