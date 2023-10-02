@@ -1,6 +1,6 @@
 # Hi there. I'm Niracha!
 
-I have background in digital marketing, (Agile) project management, UX/UI and a tiny bit of web development. My journey in web development is driven by a desire to transform creative ideas into interactive digital experiences, to find fulfillment in creating websites and applications that bring positive benefits to individuals or businesses.
+I have background in digital marketing, (Agile) project management, UX/UI and a tiny bit of web development. My journey in web development is driven by a desire to transform creative ideas into interactive digital experiences. I find fulfillment in creating websites and applications that bring positive benefits to individuals or businesses.
 
 A bit about me✨:
 
