@@ -9,6 +9,7 @@ A bit about me✨:
 * 🎯 The top 5 things on my bucket list are:
 
   - [x] Develop my own app/website : [Capstone project- Expiry Track](https://github.com/NirachaMarchett/capstone-expiration-tracking-app) 🚀
+        -- Currently, I am on an adventure of building [a game](https://github.com/NirachaMarchett/couple-vocabs-game) that makes learning each other's vocabularies more like fun quality time for multilingual pairs.
   - [ ] Northern light hunting
   - [ ] Skydiving
   - [ ] Handshake with kangaroos
