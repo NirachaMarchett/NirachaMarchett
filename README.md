@@ -13,7 +13,7 @@ A bit about me✨:
   - [x] Northern light hunting
   - [ ] Skydiving
   - [ ] Handshake with kangaroos
-  - [ ] Fly plane with flight simulator
+  - [x] Fly plane with flight simulator
 
 ---
 ## Technology
